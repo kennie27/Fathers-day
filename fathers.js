@@ -5,10 +5,10 @@ let w = (c.width = window.innerWidth),
 (hh = h / 2),
   (opts = {
     // change the text in here //
-    strings: ["HAPPY", "FATHERS DAY"],
+    strings: ["HAPPY","FATHERS DAY"],
     charSize: 30,
-    charSpacing: 35,
-    lineHeight: 40,
+    charSpacing: 30,
+    lineHeight: 35,
 
     cx: w / 2,
     cy: h / 2,
